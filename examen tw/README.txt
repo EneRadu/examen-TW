@@ -13,3 +13,5 @@ din directorul server (pt backend):
 	npm run dev
 din directorul react-app (pt frontend): 
 	npm start
+
+IMPORTANT: au fost sterse folderele node_modules din server si react-app, in plus din react-app a fost sters si folderul .git
