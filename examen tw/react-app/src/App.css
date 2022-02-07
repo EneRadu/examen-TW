@@ -1,0 +1,20 @@
+#div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: top 50px;
+}
+
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid gray;
+    text-align: left;
+    padding: 4px;
+  }
